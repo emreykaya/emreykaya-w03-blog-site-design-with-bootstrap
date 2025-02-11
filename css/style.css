@@ -1,0 +1,48 @@
+:root {
+    --primary-color: #00ff00;
+    --secondary-color: #272727;
+}
+
+h1::first-letter, h2::first-letter, h3::first-letter, h4::first-letter {
+    color: var(--primary-color); 
+}
+
+.btn {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border: none;
+}
+
+.btn:hover {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
+
+body {
+    font-family: "Open Sans", serif;
+}
+
+.card {
+    height: 100%;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#contact-details a {
+    color: var(--secondary-color);
+    font-weight: bolder;
+}
+
+
