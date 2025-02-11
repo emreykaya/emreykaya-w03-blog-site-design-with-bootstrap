@@ -1,4 +1,4 @@
-# # Patika+ Frontend Bootcamp Hafta-03 / Ödev-01  (Blog Sitesi Tasarlama - Bootstrap)
+# Patika+ Frontend Bootcamp Hafta-03 / Ödev-01  (Blog Sitesi Tasarlama - Bootstrap)
 
 CyberTrend, en son teknoloji haberlerini, trendleri ve analizleri paylaşan modern bir teknoloji blogudur. Bu projenin kurumsal kimlik çalışmaları tamamen **kendi tasarımım** olup, kullanıcı dostu bir deneyim sunmak için özenle geliştirilmiştir. Lütfen prejeyi incelerken tüm dosyaların indiğinden emin olun.
 
